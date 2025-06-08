@@ -20,3 +20,6 @@ This interactive report uncovers valuable insights such as:
 This is just the beginning — open to feedback, collaboration, and learning opportunities!
 
 #PowerBI #DataAnalytics #BusinessIntelligence #DashboardDesign #GitHub #DataVisualization #CustomerInsights #LearningJourney #FirstProject
+
+
+<img src="https://github.com/Jangir-Saurabh/Customer_Performance_Dashboard-/blob/2ea8e192a396f64a52266b3ec283b8276214d4a1/image%20(1).png" alt="Image Description" width="300">, <img src="https://github.com/Jangir-Saurabh/Customer_Performance_Dashboard-/blob/2ea8e192a396f64a52266b3ec283b8276214d4a1/image%20(2).png" alt="Image Description" width="300">, <img src="https://github.com/Jangir-Saurabh/Customer_Performance_Dashboard-/blob/2ea8e192a396f64a52266b3ec283b8276214d4a1/image%20(3).png" alt="Image Description" width="300">, <img src="https://github.com/Jangir-Saurabh/Customer_Performance_Dashboard-/blob/2ea8e192a396f64a52266b3ec283b8276214d4a1/image.png" alt="Image Description" width="300">, 
